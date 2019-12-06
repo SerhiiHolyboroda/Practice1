@@ -1,0 +1,22 @@
+#box{
+    background-color: red;
+    min-height: 100px;
+   
+     
+       
+    display: flex;
+      flex-direction: row;
+     
+}
+
+.boxe{
+    margin-left: 20px;
+    margin-top: 10px;
+  height: 80px;
+width: 80px;
+background-color: goldenrod;
+    border-radius:60px;
+      
+    min-width: 80px;
+}
+ 
